@@ -61,14 +61,6 @@ Welcome to my GitHub profile! I'm **Naveen**, a passionate developer focused on 
 
 ---
 
-## 🧪 Featured Projects
-
-- 🔬 [Real-time Face Recognition Attendance System](https://github.com/your-username/face-attendance)
-- 📊 [Student Performance Dashboard using Flask & Pandas](https://github.com/your-username/student-dashboard)
-- 🗳️ [Voting System - MERN Stack Project](https://github.com/your-username/voting-system)
-
----
-
 ## 📈 GitHub Stats
 
 <table align="center">
