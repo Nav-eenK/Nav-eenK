@@ -70,9 +70,6 @@ Welcome to my GitHub profile! I'm **Naveen**, a passionate developer focused on 
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naveen&theme=radical&hide_border=true" width="70%" />
-</p>
 
 ---
 
