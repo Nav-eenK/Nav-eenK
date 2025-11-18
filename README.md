@@ -86,7 +86,7 @@ I enjoy working on AI/ML, automation tools, GUI apps, and full-stack web applica
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
   </a>
 
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/naveen250202">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 
