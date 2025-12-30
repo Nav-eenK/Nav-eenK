@@ -59,19 +59,6 @@ I enjoy working on AI/ML, automation tools, GUI apps, and full-stack web applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=naveen&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
----
-
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen&theme=react-dark&hide_border=true" />
