@@ -12,10 +12,15 @@ I enjoy working on AI/ML, automation tools, GUI apps, and full-stack web applica
 ## 🚀 What I Work On
 <p align="center" style="color:#ffffff;">
 - 💻 Python GUI apps (Tkinter Projects, Notes App, Tools, Automation)  
-- 🌐 Full-stack development (Flask + HTML/CSS/JS)  
-- ⚡ REST APIs  
-- 📊 Data analysis using Pandas & NumPy  
-- 🤖 Machine Learning basics  
+  
+- 🌐 Full-stack development (Flask + HTML/CSS/JS)
+- 
+- ⚡ REST APIs
+- 
+- 📊 Data analysis using Pandas & NumPy
+- 
+- 🤖 Machine Learning basics
+- 
 - 🕹 Real-time applications (OpenCV, small AI utilities)
 </p>
 
