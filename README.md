@@ -1,27 +1,24 @@
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Naveen;Python+Developer;Full+Stack+Developer;AI+%7C+ML+Learner;Tkinter+%7C+Flask+%7C+Pandas+%7C+NumPy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF0066,FF6600,00FF66,00CCFF&center=true&width=800&vCenter=true&lines=Hey+there!+I'm+Naveen;Python+Enthusiast+%7C+Full+Stack Dev;AI+%26+ML+Learner;Tkinter+%7C+Flask+%7C+Pandas+%7C+NumPy" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-Welcome to my GitHub profile! I build real-world applications using Python, Tkinter, Flask, and modern web technologies.  
-I enjoy working on AI/ML, automation tools, GUI apps, and full-stack web applications.
+Welcome to my GitHub! I build **Python GUI apps, full-stack web apps, automation tools**, and explore **AI/ML projects**. 🚀
 </p>
 
 ---
 
 ## 🚀 What I Work On
-- Python GUI apps (Tkinter Projects, Notes App, Tools, Automation)  
-- Full-stack development (Flask + HTML/CSS/JS)  
-- REST APIs  
-- Data analysis using Pandas & NumPy  
-- Machine Learning basics  
-- Real-time applications (OpenCV, small AI utilities)
+- **Python GUI apps:** Tkinter, Notes App, Automation Tools  
+- **Full-Stack Development:** Flask + HTML/CSS/JS  
+- **REST APIs** for web & mobile applications  
+- **Data Analysis:** Pandas & NumPy  
+- **Machine Learning:** Basics, AI utilities, OpenCV  
+- **Real-time Apps:** Computer vision & automation  
 
 ---
 
-## 💻 Tools and Technologies
+## 💻 Skills & Tools
 
 ### 🧠 Languages & Frameworks
 <p align="center">
@@ -40,7 +37,7 @@ I enjoy working on AI/ML, automation tools, GUI apps, and full-stack web applica
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/>
 </p>
 
-### 🤖 AI/ML & Python Libraries
+### 🤖 AI/ML & Libraries
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
@@ -59,7 +56,7 @@ I enjoy working on AI/ML, automation tools, GUI apps, and full-stack web applica
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen&theme=react-dark&hide_border=true" />
 </p>
@@ -67,24 +64,19 @@ I enjoy working on AI/ML, automation tools, GUI apps, and full-stack web applica
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:youremail@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
   </a>
-
   <a href="https://linkedin.com/in/naveen250202">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
-
   <a href="https://github.com/naveen">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="40"/>
   </a>
-
   <a href="https://your-portfolio-link.com">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40"/>
   </a>
-
   <a href="https://instagram.com/yourusername">
     <img src="https://img.icons8.com/ios-filled/50/e4405f/instagram-new.png" height="40"/>
   </a>
